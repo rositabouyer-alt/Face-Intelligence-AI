@@ -1,0 +1,5 @@
+# Python 3.12 / Windows 11. Do NOT also install "opencv-python": mediapipe pulls in opencv-contrib-python.
+PySide6==6.7.2
+mediapipe==0.10.14
+opencv-contrib-python==4.10.0.84
+numpy==1.26.4
